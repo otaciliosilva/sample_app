@@ -1,1 +1,4 @@
-# sample_app
+Configurações iniciais do git:
+
+$ git config --global user.name "name"
+$ git config --global user.email "e-mail"
